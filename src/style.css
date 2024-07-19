@@ -21,17 +21,19 @@ body {
   .form-container {
     background-color: white;
     margin-bottom: 30px;
-    box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
-    padding: 15px 20px;
+    box-shadow: 5px 20px 60px rgba(65, 50, 100, 0.08);
+    padding: 30px;
     border-radius: 20px;
   }
-  .prompt {
-    padding: 16px;
+  .instructions {
+    padding: 15px 20px;
     border: 1px solid rgba(39, 33, 66, 0.5);
     width: 80%;
+    font-weight: 400;
     font-size: 16px;
     border-radius: 50px;
     line-height: 20px;
+    color: #272044;
   }
   .hint {
     line-height: 1.5;
@@ -40,7 +42,7 @@ body {
     opacity: 0.6;
   }
   .submit-button {
-    margin-left: 10px;
+    margin-left: 300px;
     background-color: #dcb5fb;
     color: white;
     border: none;
@@ -52,7 +54,7 @@ body {
   .poem {
     font-size: 16px;
     background-color: white;
-    padding: 20px;
+    padding: 40px;
     line-height: 24px;
     border-left: 3px solid #77529e;
     border-right: 3px solid #77529e;

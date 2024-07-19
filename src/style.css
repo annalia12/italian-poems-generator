@@ -26,7 +26,7 @@ body {
     border-radius: 20px;
   }
   .instructions {
-    padding: 15px 20px;
+    padding: 16px;
     border: 1px solid rgba(39, 33, 66, 0.5);
     width: 80%;
     font-weight: 400;
@@ -42,7 +42,7 @@ body {
     opacity: 0.6;
   }
   .submit-button {
-    margin-left: 300px;
+    margin-left: 10px;
     background-color: #dcb5fb;
     color: white;
     border: none;
